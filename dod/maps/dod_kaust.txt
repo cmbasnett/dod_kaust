@@ -1,0 +1,13 @@
+DOD_KAUST by Colin "Dark Nation" Basnett (cmbasnett@gmail.com)
+
+July, 1944, France
+
+<INSERT COOL TEXT HERE>
+
+Allied Objectives: 
+   - Capture the 5 flag points
+
+Axis Objectives:
+   - Capture the 5 flag points
+
+Models: xxxGaurangaxxx (Sd.Kfz 222, Dodge WC-54, M10 Wolverine, M8 Greyound)
