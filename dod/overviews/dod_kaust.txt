@@ -1,0 +1,10 @@
+global {
+ZOOM    1.32
+ORIGIN 	97.73 -29.44 -181.00
+ROTATED 0
+}
+
+layer {
+IMAGE "overviews/dod_kaust.bmp"
+HEIGHT -181.00
+}
