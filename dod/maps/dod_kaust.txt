@@ -2,11 +2,7 @@ DOD_KAUST by Colin "Dark Nation" Basnett (cmbasnett@gmail.com)
 
 July, 1944, France
 
-Allied Objectives:
-   - Capture the 5 flag points
-
-Axis Objectives:
-   - Capture the 5 flag points
+This is an open source map! Download all the source files from https://github.com/cmbasnett/dod_kaust.
 
 CREDITS:
 
@@ -15,5 +11,6 @@ Models:
    - bazlord (Piano)
    - Dark Nation (Hotel Mailbox)
 
-Piano Audio:
+Piano Music:
    - Final Fantasy VII - Main Theme (https://www.youtube.com/watch?v=H-KpMgxKJxE)
+   - Silent Hill 4 - Room of Angel (https://www.youtube.com/watch?v=S9jYB8SvV7E)
