@@ -7,7 +7,7 @@ This is an open source map! Download all the source files from https://github.co
 CREDITS:
 
 Models:
-   - xxxGaurangaxxx (Sd.Kfz 222, Dodge WC-54, M10 Wolverine, M8 Greyound, Sd.Kfz 251)
+   - xxxGaurangaxxx (Sd.Kfz 222, Dodge WC-54, M10 Wolverine, M8 Greyound, Sd.Kfz 251, Zundapp KS-600)
    - bazlord (Piano)
    - Dark Nation (Hotel Mailbox)
 
