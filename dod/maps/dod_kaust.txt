@@ -9,7 +9,7 @@ CREDITS:
 Models:
    - xxxGaurangaxxx (Sd.Kfz 222, Dodge WC-54, M10 Wolverine, M8 Greyound, Sd.Kfz 251, Zundapp KS-600)
    - bazlord (Piano)
-   - Dark Nation (Hotel Mailbox)
+   - Dark Nation (Hotel Mailbox, Gas Lantern)
 
 Piano Music:
    - Final Fantasy VII - Main Theme (https://www.youtube.com/watch?v=H-KpMgxKJxE)
