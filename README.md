@@ -18,7 +18,7 @@ A Day of Defeat 1.3 map by Colin "Dark Nation" Basnett
    - [Silent Hill 4 - Room of Angel](https://www.youtube.com/watch?v=S9jYB8SvV7E)
 
 # Build Settings
-The map is built with [Zoner's Half-Life Tools](http://zhlt.info/), and uses the following settings.
+The map is built with [Vluzacn's ZHLT v43](https://forums.svencoop.com/showthread.php/42174-Vluzacn-s-ZHLT-v34-Update), and uses the following settings.
 
 
     hlcsg.exe
